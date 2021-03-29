@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 first change.this is index.
+=======
+First Change.this is index.
+>>>>>>> dashboard
